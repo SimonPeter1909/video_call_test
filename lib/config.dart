@@ -1,0 +1,4 @@
+/// Define App ID and Token
+const APP_ID = '9be7440657eb4c268a63b1531caa4f5c';
+const Token = '0069be7440657eb4c268a63b1531caa4f5cIAAPpHaif89PtFNA8QP2mSYxnwfaHplkXH539xHxVI72hDLRTXgAAAAAEACLgpZhhE0uYQEAAQCETS5h';
+const CHANNEL = 'Test';
